@@ -5,7 +5,7 @@ import Why from '@/components/Why'
 export default function Home() {
   return (
     <>
-      {/* <Hero /> */}
+      <Hero />
       <Services />
       <Why img="image and card.png" title="WHY CHOOSE US" subTitle="Find Favorites and Discover New Ones" para=" At vero eos et accusamus et iusto odio dignissimos ducimus
               blanditiis praesen voluptatum deleniti." classes="md:flex-row" headColor="text-[#03A66B]" buttonClass="" />
